@@ -2,18 +2,12 @@
 section: contact
 layout: contact.njk
 title: Get in touch
+metaDescription: Contact form
 date: 2018-01-01
 permalink: /contact/index.html
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
 subtitle: Contact Subtitle
 eleventyNavigation:
   key: Contact
   order: 4
 ---
-
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.
+Hey there! I'm thrilled that you've stopped by my website and taken the time to explore my content. If you have any questions, want to share your thoughts, or simply want to say hello, I would like to hear from you. Drop me an email using the contact form below!
