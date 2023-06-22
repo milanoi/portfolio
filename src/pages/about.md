@@ -1,31 +1,19 @@
 ---
 title: About Me
-subtitle: ""
-metaDescription: This page is all about me
+subtitle: Currently building No Assembly  (https://www.noassembly.ghost.io)
+metaDescription: About Me
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
+I’m a data scientist and design enthusiast who loves to build and code. I strongly believe in maintaining a high standard for product quality, and I recognize that gaining a deep understanding of constraints is crucial elevating product quality. 
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+I love engaging with technical communites and I’m passionate about commradiere. I know that successful products are collaborative endeavors spanning research, engineering, product, design and more. 
 
-### Why create this?
+I obsess about the details and strive for excellence - not perfection. I believe in focusing on the process and refining the finer details. Results will always follow. I spend a lot of time on the intangible parts of a product, like [](https://twitter.com/Stammy/status/1364261677898870785)research and product strategy, to help focus teams and evangelize the direction. I enjoy documentation and [content creation](https://noassembly.ghost.io/) as well.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+I am currently building [No Assembly](https://noassembly.ghost.io/), an ambitious and exciting project. No Assembly’s overarching mission is to democratize machine learning through open education and to encourage diverse perspectives in AI, through other engaging and insightful content. It is a community of learners, builders, enthusiasts, policy makers and industry professionals working together to leverage this trasformative technology for the long term good of humanity. It’s a project I’m building in public.If you have some ideas to support this mision and you’d like to get involved, please reach out via the contact page on the No Assembly website. You can view the project roadmap [here](https://noassembly.ghost.io/about/). 
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
-
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
-
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+You can find me on Twitter (@milanoi_) where I like to talk about tech, No Assembly and just generally things that interest me.
